@@ -1,5 +1,5 @@
 import java.sql.*;  
-class OracleCon{  
+class Start{  
 public static void main(String args[]){  
 try{  
 //step1 load the driver class  
