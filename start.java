@@ -1,5 +1,5 @@
 hey, kitty
-Hey Sensei
+Hey Dan
 
 import java.sql.*;  
 class Start{  
